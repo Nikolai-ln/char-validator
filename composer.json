@@ -1,0 +1,21 @@
+{
+    "name": "nikolai/char-validator",
+    "description": "A char validator that validates string by chosen conditions.",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": ">=2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay L Nikolov",
+            "email": "nikolai_ln@abv.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "nln\\chars\\": ""
+        }
+    }
+}
