@@ -12,6 +12,7 @@
             "email": "nikolai_ln@abv.bg"
         }
     ],
+	"minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
             "nln\\chars\\": ""
