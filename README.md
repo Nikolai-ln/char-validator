@@ -17,7 +17,7 @@ composer require nikolai/char-validator
 
 #### Usage
 
-To use char-validator, install it via Composer, add the new class in the module and then use it in the rules. There are additional parameters that can be used in validation.
+To use char-validator, install it via Composer, add the new class in the model and then use it in the rules. There are additional parameters that can be used in validation.
 An example of using with some parameters, also usage of "extra".
 
 ``` php
