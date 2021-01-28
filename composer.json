@@ -1,5 +1,5 @@
 {
-    "name": "nikolai/char-validator",
+    "name": "nln/char-validator",
     "description": "A char validator that validates string by chosen conditions.",
     "type": "yii2-extension",
     "require": {
